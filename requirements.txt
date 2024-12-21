@@ -1,3 +1,5 @@
 llama-index
 openai
 pypdf
+ipykernel
+python-dotenv
